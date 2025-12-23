@@ -1,3 +1,7 @@
+//<a href="https://github.com/your-username/project1" target="_blank">
+  //        View on GitHub
+    //    </a>
+
 function Projects() {
   return (
     <div>
@@ -41,10 +45,6 @@ function Projects() {
             J'ai donc pu m'autoformer à React et Django, et j'ai développé la première version de nos filtres.
         </p>
 
-        
-        <a href="https://github.com/your-username/project1" target="_blank">
-          View on GitHub
-        </a>
       </div>
 
       <div className="project">
