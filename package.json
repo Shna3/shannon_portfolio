@@ -2,6 +2,9 @@
   "name": "assouly-portfolio",
   "private": true,
   "version": "0.0.0",
+
+  "homepage": "https://Shna3.github.io/assouly-portfolio",
+  
   "type": "module",
   "scripts": {
     "dev": "vite",
